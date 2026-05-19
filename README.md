@@ -48,7 +48,7 @@ This dashboard solves these problems by consolidating data into a **single inter
 ---
 
  📊 **Dashboard Highlights**
-- **Filters:** City, Department, Doctor, Insurance, Gender  
+- **Filters:** City, Department, Doctor, Insurance, Gender
 - **Date Range:** 01-Jan-2023 to 14-Dec-2025  
 - **Data Refresh:** 12-May-2024 at 10:30 AM  
 
